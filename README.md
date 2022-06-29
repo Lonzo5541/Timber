@@ -1,6 +1,6 @@
 # Timber
-Timber Game Tutorial
+Timber Game Tutorial with SFML
 
-Open Timber.cpp to see source code
+Timber.cpp Main Driver Source Code
 
 Build does not have errors in Visual Studio 2019 Community IDE
